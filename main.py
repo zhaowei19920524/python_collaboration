@@ -34,7 +34,7 @@ colleague.say_hello("zhaow9", "Wei Zhao")
 
 colleague1.say_hello("", "")
 
-colleague2.say_hello("", "")
+colleague2.say_hello("liub61", "Ben Liu")
 
 colleague3.say_hello("", "")
 
