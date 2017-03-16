@@ -1,2 +1,2 @@
 def say_hello(ID, name):
-	print ID + " " + name + ": " + "I am dev4"
+	print ID + " " + name + ": " + "[what you want to say]"
