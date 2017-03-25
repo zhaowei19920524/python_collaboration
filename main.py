@@ -32,7 +32,7 @@ import colleague30
 
 colleague.say_hello("zhaow9", "Wei Zhao")
 
-colleague1.say_hello("", "")
+colleague1.say_hello("qht", "Haitao Qi")
 
 colleague2.say_hello("", "")
 
