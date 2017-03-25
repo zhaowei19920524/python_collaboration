@@ -32,9 +32,9 @@ import colleague30
 
 colleague.say_hello("zhaow9", "Wei Zhao")
 
-colleague1.say_hello("I'm Yuemei Qin", "Nice to meet you.")
+colleague1.say_hello("", "")
 
-colleague2.say_hello("", "")
+colleague2.say_hello("I'm Yuemei Qin.", "Nice to meet you.")
 
 colleague3.say_hello("", "")
 
