@@ -48,7 +48,7 @@ colleague7.say_hello("", "")
 
 colleague8.say_hello("", "")
 
-colleague9.say_hello("", "")
+colleague9.say_hello("XUM20", "MIN XU")
 
 colleague10.say_hello("", "")
 
