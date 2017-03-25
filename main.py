@@ -42,7 +42,7 @@ colleague4.say_hello("yihuo", "YI HUO")
 
 colleague5.say_hello("", "")
 
-colleague6.say_hello("", "")
+colleague6.say_hello("mengf6", "Fanwang Meng")
 
 colleague7.say_hello("", "")
 
