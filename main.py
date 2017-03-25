@@ -38,7 +38,7 @@ colleague2.say_hello("", "")
 
 colleague3.say_hello("yd", "yd")
 
-colleague4.say_hello("", "")
+colleague4.say_hello("yihuo", "YI HUO")
 
 colleague5.say_hello("", "")
 
