@@ -40,7 +40,7 @@ colleague3.say_hello("yd", "yd")
 
 colleague4.say_hello("yihuo", "YI HUO")
 
-colleague5.say_hello("", "")
+colleague5.say_hello("Zhang", "5")
 
 colleague6.say_hello("mengf6", "Fanwang Meng")
 
