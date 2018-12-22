@@ -72,7 +72,7 @@ colleague19.say_hello("", "")
 
 colleague20.say_hello("", "")
 
-colleague21.say_hello("", "")
+colleague21.say_hello("21", "sun")
 
 colleague22.say_hello("", "")
 
