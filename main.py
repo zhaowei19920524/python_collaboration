@@ -60,7 +60,7 @@ colleague13.say_hello("mah16", "Haolin Ma")
 
 colleague14.say_hello(“20006411”, “Xiaoyun”)
 
-colleague15.say_hello("", "")
+colleague15.say_hello("rookie", "jing")
 
 colleague16.say_hello("16", "WangYue")
 
