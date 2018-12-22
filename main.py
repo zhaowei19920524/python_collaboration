@@ -54,7 +54,7 @@ colleague10.say_hello("", "")
 
 colleague11.say_hello("get3", "ty")
 
-colleague12.say_hello("", "")
+colleague12.say_hello(¡°12¡±, ¡°STARRY CHOW¡±)
 
 colleague13.say_hello("mah16", "Haolin Ma")
 
