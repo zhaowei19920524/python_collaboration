@@ -54,15 +54,15 @@ colleague10.say_hello("", "")
 
 colleague11.say_hello("get3", "ty")
 
-colleague12.say_hello("", "")
+colleague12.say_hello(°∞12°±, °∞STARRY CHOW°±)
 
-colleague13.say_hello("", "")
+colleague13.say_hello("mah16", "Haolin Ma")
 
-colleague14.say_hello("", "")
+colleague14.say_hello(‚Äú20006411‚Äù, ‚ÄúXiaoyun‚Äù)
 
-colleague15.say_hello("", "")
+colleague15.say_hello("rookie", "jing")
 
-colleague16.say_hello("", "")
+colleague16.say_hello("16", "WangYue")
 
 colleague17.say_hello("", "")
 
@@ -70,7 +70,7 @@ colleague18.say_hello("", "")
 
 colleague19.say_hello("", "")
 
-colleague20.say_hello("", "")
+colleague20.say_hello("hanyang", "20")
 
 colleague21.say_hello("", "")
 
